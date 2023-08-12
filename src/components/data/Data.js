@@ -115,7 +115,7 @@ export const footer = [
  
   {
     title: "CONTACT US",
-    text: [{ list: "Channabasayya G.K." }, { list: "Proprietor" }, { list: "9008659165" }, { list: "channu.kulkarni@gmail.com" }, { list: "#55, Oppo. Police Station" }, { list: "Kanakapura Main Road, Kaggalipura, Bangalore-560116" }],
+    text: [{ list: "Channabasayya G.K." }, { list: "Proprietor" }, { list: "9008659195" }, { list: "channu.kulkarni@gmail.com" }, { list: "#55, Oppo. Police Station" }, { list: "Kanakapura Main Road, Kaggalipura, Bangalore-560116" }],
   },
   
 ]

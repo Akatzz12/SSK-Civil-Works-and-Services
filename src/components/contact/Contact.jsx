@@ -14,7 +14,7 @@ const Contact = () => {
             <h4>SSK Civil Works and Services</h4> <br />
             <p>Channabasayya G.K.</p>
             <p>Proprietor</p>
-            <p>9008659165</p>
+            <p>9008659195</p>
             <p>channu.kulkarni@gmail.com</p>
             <p>#55, Oppo. Police Station
             Kanakapura Main Road, </p>
